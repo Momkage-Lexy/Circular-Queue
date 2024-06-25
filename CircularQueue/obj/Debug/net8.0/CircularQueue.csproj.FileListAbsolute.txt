@@ -1,0 +1,13 @@
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\bin\Debug\net8.0\CircularQueue.deps.json
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\bin\Debug\net8.0\CircularQueue.dll
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\bin\Debug\net8.0\CircularQueue.pdb
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\CircularQueue.AssemblyInfoInputs.cache
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\CircularQueue.AssemblyInfo.cs
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\CircularQueue.sourcelink.json
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\CircularQueue.dll
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\refint\CircularQueue.dll
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\CircularQueue.pdb
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\ref\CircularQueue.dll
+C:\Users\15034\cs367hw2-circularqueue-momkage-wou\CircularQueue\obj\Debug\net8.0\CircularQueue.csproj.AssemblyReference.cache
